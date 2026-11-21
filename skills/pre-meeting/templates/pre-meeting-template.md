@@ -95,12 +95,12 @@
 **Tax snapshot** ([estate platform], tax year [YYYY]): Filing status [ ] · AGI $[X] · Taxable income $[X] · Federal tax $[X] · State tax $[X] · Capital gains $[X] · Dividends $[X] · Deductions $[X] · Brackets: [federal and state, as the platform returned them]
 
 ## 6. Proposed Agenda ([30–45] min)
-1. Welcome & life updates — 5 min
+1. Welcome & Life Updates — 5 min
 2. Markets in plain English — 5 min
-3. Your portfolio: performance & positioning — 10 min
-4. Planning opportunities — 10 min
-5. Open discussion items — 5 min
-6. Action items & next meeting — 5 min
+3. Your Portfolio: performance & positioning — 10 min
+4. Planning Opportunities — 10 min
+5. Open Discussion Items — 5 min
+6. Action Items & Next Meeting — 5 min
 
 ## 7. Talking Points & Anticipated Questions
 **Talking points:**
